@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(104, 104, 59);
+    background-repeat: no-repeat;
+ background-size: cover ;}
+ h1 {color: red;
+     margin: 100px;
+    display: block; font-size: 70px; 
+    text-justify: distribute;
+    justify-content: center;
+    border: solid 5px red;
+    padding: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin: 30px;
+    margin-left: 300px;
+    width: 500px;
+    background-color: beige;
+    
+}
+div{color: blue;
+}
+.taille{font-size: 30px; 
+display: inline-block;}
+li{display: inline; font-size: 50px; justify-content: center;}
+image{font-weight: 50PX;}
+.center{ margin: 100px; 
+    background-image: url("image/https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+
+}
+img{ margin-left: 900px; 
+height: 400px; }
+
+#IMAGE{background-image: url("https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");}
